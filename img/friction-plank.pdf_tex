@@ -1,0 +1,53 @@
+%% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'friction-plank.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+
+\begingroup
+  \makeatletter
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}
+    \renewcommand\color[2][]{}%
+  }
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}
+    \renewcommand\transparent[1]{}%
+  }
+  \providecommand\rotatebox[2]{#2}
+  \ifx\svgwidth\undefined
+    \setlength{\unitlength}{914.3170166pt}
+  \else
+    \setlength{\unitlength}{\svgwidth}
+  \fi
+  \global\let\svgwidth\undefined
+  \makeatother
+  \begin{picture}(1,0.68557914)%
+    \put(0,0){\includegraphics[width=\unitlength]{friction-plank.pdf}}%
+    \put(0.24594861,0.36352197){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Wooden Block}}}%
+    \put(0.53268811,0.51686522){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{String}}}%
+    \put(0.77579328,0.65898826){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Pulley}}}%
+    \put(0.79823376,0.21391875){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Masses}}}%
+    \put(0.83443926,0.20293869){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Scale Pan}}}%
+  \end{picture}%
+\endgroup
