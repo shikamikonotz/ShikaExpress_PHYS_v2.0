@@ -1,0 +1,54 @@
+%% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'inverter.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+
+\begingroup
+  \makeatletter
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}
+    \renewcommand\color[2][]{}%
+  }
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}
+    \renewcommand\transparent[1]{}%
+  }
+  \providecommand\rotatebox[2]{#2}
+  \ifx\svgwidth\undefined
+    \setlength{\unitlength}{955.93251953pt}
+  \else
+    \setlength{\unitlength}{\svgwidth}
+  \fi
+  \global\let\svgwidth\undefined
+  \makeatother
+  \begin{picture}(1,0.44699154)%
+    \put(0,0){\includegraphics[width=\unitlength]{inverter.pdf}}%
+    \put(0.09347875,0.12028182){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Motor}}}%
+    \put(0.1754928,0.32352387){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Rubber Band}}}%
+    \put(0.46074907,0.42155826){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Brushes}}}%
+    \put(0.30529662,0.03530012){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Pulley}}}%
+    \put(0.45952654,0.00047401){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Batteries}}}%
+    \put(0.87559699,0.30819689){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14759636\unitlength}\centering AC\\ Power\end{minipage}}}%
+  \end{picture}%
+\endgroup
